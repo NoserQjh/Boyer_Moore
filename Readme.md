@@ -1,1 +1,1 @@
-An immpletation of Boyer_Moore
+An implementation of Boyer_Moore
